@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ranjula Bandara</h1>
+<h1 align="center">Hi 👋, I'm Imesh Chandula</h1>
 <p style= "text-align:center;"><img src="https://files.fm/thumb_show.php?i=rtcwcykgk"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjula12&label=Profile%20views&color=0e75b6&style=flat" alt="ranjula12" /></p>
