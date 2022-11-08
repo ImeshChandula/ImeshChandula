@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Imesh Chandula</h1>
 <p style= "text-align:center;"><img src="https://files.fm/thumb_show.php?i=rtcwcykgk"></p>
 
-<h3 align="center">Bachelor of Computer Science (UG)</h3>
+<h3 align="center">I'm Web Developer, UI, UX Developer.</h3>
 
 
 - 🔭 I’m currently studying **Eastern University of Srilanka**
 
-- 🌱 I’m currently learning **Web Developing.**
+- 🌱 I’m currently learning **Bachelor of Computer Science**
 
 - 📫 How to reach me **chandulaimesh2000@gmail.com**
 
