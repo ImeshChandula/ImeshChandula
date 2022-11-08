@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imesh Chandula</h1>
-<p style= "text-align:center;"><img src="https://files.fm/thumb_show.php?i=rtcwcykgk"></p>
+<p style= "text-align:center;"></p>
 
 <h3 align="center">I'm Web Developer, UI, UX Developer.</h3>
 
