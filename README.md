@@ -1,23 +1,20 @@
 <h1 align="center">Hi 👋, I'm Imesh Chandula</h1>
 <p style= "text-align:center;"><img src="https://files.fm/thumb_show.php?i=rtcwcykgk"></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjula12&label=Profile%20views&color=0e75b6&style=flat" alt="ranjula12" /></p>
-<h3 align="center">computer science student and learning about everything about IT</h3>
+<h3 align="center">Bachelor of Computer Science (UG)</h3>
 
 
 - 🔭 I’m currently studying **Eastern University of Srilanka**
 
-- 💬 Ask me about **Problem solving and Designing**
+- 🌱 I’m currently learning **Web Developing.**
 
-- 🌱 I’m currently learning **developing and design**
-
-- 📫 How to reach me **ranjulabandara790@gmail.com**
+- 📫 How to reach me **chandulaimesh2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ranjula bandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranjula bandara" height="30" width="40" /></a>
-<a href="https://fb.com/ranjula bandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ranjula bandara" height="30" width="40" /></a>
-<a href="https://instagram.com/ranjula_bandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ranjula bandara" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/imesh-chandula-601113256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranjula bandara" height="30" width="40" /></a>
+<a href="https://www.facebook.com/imesh.chandula.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ranjula bandara" height="30" width="40" /></a>
+<a href="https://www.instagram.com/imesh_chandula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ranjula bandara" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
