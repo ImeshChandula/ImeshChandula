@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studying **Eastern University of Srilanka.**
 
-- 🌱 I’m currently learning **Bachelor of Computer Science.**
+- 🌱 I’m currently learning **Bachelor of Science in Computer Science.**
 
 - 📫 How to reach me **chandulaimesh2000@gmail.com**
 
