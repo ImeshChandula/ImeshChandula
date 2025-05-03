@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Imesh Chandula</h1>
 <p style= "text-align:center;"></p>
 
-<h3 align="center">Web Developer, Software Engineer.</h3>
+<h3 align="center">Software Engineer - Intern.</h3>
 
 
 - 🔭 I’m currently studying **Eastern University of Srilanka.**
